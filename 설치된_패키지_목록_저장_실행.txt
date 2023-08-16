@@ -1,0 +1,6 @@
+# 우분투, 설치된 패키지 목록 저장(백업)
+dpkg --get-selections | grep -v deinstall > 설치내역.txt
+
+
+# 설지내역.txt 에 저장된 패키지 설치
+sudo dpkg --set-selections < 설치내역.txt
