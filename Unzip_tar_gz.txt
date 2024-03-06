@@ -1,3 +1,0 @@
-ex) aaa.tar.gz라는 tar.gz파일 압축을 풀고자 한다면 터미널에서 아래 코드 입력
-
-     > tar -zxvf aaa.tar.gz
