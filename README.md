@@ -7,6 +7,6 @@
 
    
 # Ubuntu code
-1. 폴더삭제 `rm filename`
+1. 폴더삭제 `rm -r filename`
 2. 압축 파일 해제
 3. 설치된 패키기 리스트 추출
