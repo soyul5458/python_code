@@ -10,4 +10,4 @@
 1. 폴더삭제 `rm -r filename`
 2. 압축 파일 해제
 3. 설치된 패키기 리스트 추출
-4. 파일 복사 `cp ./direcory1/*.txt ./directory2`
+4. 파일 복사 `cp -r /Data/hmd/sy*.py /Data/hmd/hmd2/notebooks_sy2/`
